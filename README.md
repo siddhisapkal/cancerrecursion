@@ -26,6 +26,7 @@ Classification report visualized as a table
 🤖 Models Implemented
 Logistic Regression
 
+
 Naive Bayes
 
 Decision Tree with GridSearchCV for hyperparameter tuning
@@ -51,3 +52,8 @@ matplotlib
 seaborn
 
 joblib
+
+CLassification Report:
+![image](https://github.com/user-attachments/assets/948ee6a1-367b-4f2f-a907-ed1057558785)
+
+
